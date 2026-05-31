@@ -52,3 +52,16 @@ Hello → Khoor
 
 ## 📸 Output Example
 <img width="593" height="472" alt="Screenshot 2026-05-31 065630" src="https://github.com/user-attachments/assets/28f12cf7-b1a5-48c0-8e62-7d73a366efc2" />
+
+
+## 🔑 Key Skills Learned
+- Caesar Cipher logic
+- ASCII values and character manipulation
+- Modular arithmetic
+- Encryption and decryption concepts
+- Data confidentiality basics
+
+---
+
+## 👨‍💻 Author
+Intern at DecodeLabs | Batch 2026
